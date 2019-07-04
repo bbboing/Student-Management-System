@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item{
+    text-align: center;
+    font-size: 40px;
+}
+.logo-box{
+    width: 100%;
+    height:80px;
+    line-height: 80px;
+    text-align: center;
+}

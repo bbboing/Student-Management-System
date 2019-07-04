@@ -1,0 +1,9 @@
+.login-box{
+    height: 100vh;
+    text-align: center;
+    padding:30vh 60vh;
+    background: #04233f;
+}
+Input{
+    width: 20vh;
+}

@@ -1,0 +1,14 @@
+#components-form-demo-normal-login .login-form {
+    max-width: 300px;
+  }
+.ant-btn {
+    width: 200px;
+    height: 70px;
+    font-size: 32px;
+    text-align: center;
+    line-height: 70px;
+  }
+.ant-input{
+  font-size: 32px;
+  height: 70px;
+}

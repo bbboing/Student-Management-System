@@ -1,0 +1,19 @@
+.header-top{
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px solid #000c16;
+    padding: 0 10px;
+    text-align: center;
+}
+.header-name{
+    margin-right: 10px;
+    position: absolute;
+    right: 20px;
+}
+.logout{
+    padding:0 0 0 20px;
+}
+.header-time{
+    text-align: right;
+    padding: 0 20px;
+}

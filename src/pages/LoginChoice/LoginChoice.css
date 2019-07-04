@@ -1,0 +1,10 @@
+.choices-box{
+    text-align: center;
+    height: 100vh;
+    background: #04233f;
+}
+.ant-btn{
+    height: 60px;
+    font-size: 20px;
+    line-height: 60px;
+}
